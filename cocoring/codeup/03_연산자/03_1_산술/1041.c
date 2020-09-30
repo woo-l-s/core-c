@@ -22,7 +22,8 @@
 
 int main()
 {
-    // 아래에서 코드를 작성하세요.
-
+    char ch;
+    scanf("%c", &ch);
+    printf("%c", ch + 1);
     return 0;
 }
