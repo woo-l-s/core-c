@@ -16,7 +16,7 @@ C 프로그래밍을 하기 위해 몇 가지 유용한 도구(Tools)들을 소�
 단, [통합 개발 환경](https://namu.wiki/w/%ED%86%B5%ED%95%A9%20%EA%B0%9C%EB%B0%9C%20%ED%99%98%EA%B2%BD)(IDE)가 아니므로 별도의 컴파일 환경을 만들어줘야 합니다.
 
 
-### Hello, World 작성
+### `hello.c` 작성
 ```c
 #include <stdio.h>
 
