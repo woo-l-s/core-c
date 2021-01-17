@@ -11,7 +11,7 @@ int main()
      * @see https://docs.microsoft.com/ko-kr/cpp/c-runtime-library/reference/strcmp-wcscmp-mbscmp?view=msvc-160
      * @see https://www.programiz.com/c-programming/library-function/string.h/strcmp
      */
-    if (strcmp("love", word) == 0) {
+    if (!strcmp("love", word)) {
         puts("I love you.");
     }
     return 0;
