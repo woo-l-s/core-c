@@ -1,4 +1,8 @@
 #include <stdio.h>
+
+/**
+ * 문자열 관련 함수를 사용하기 위해서는 표준 헤더 파일 string.h를 추가해야 함
+ */
 #include <string.h>
 
 int main()
