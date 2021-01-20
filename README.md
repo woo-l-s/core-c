@@ -4,7 +4,7 @@
 0. OT 및 개발 환경 구축
 1. 데이터와 표준 입출력
 2. 연산자
-3. 제어문
+3. [제어문](https://github.com/ay-oh/core-c/tree/develop/03--control-statement)(Control Statement)
 4. 함수
 5. 1차원 배열
 6. 포인터
