@@ -1,19 +1,21 @@
 # Core C Programming
 
 ## Table of Contents
-0. OT 및 개발 환경 구축
-1. 데이터와 표준 입출력
-2. 연산자
-3. [제어문](https://github.com/ay-oh/core-c/tree/develop/03--control-statement)(Control Statement)
-4. 함수
-5. 1차원 배열
-6. 포인터
-7. 문자열
-8. 포인터 응용
-9. 메모리 동적 할당
-10. 구조체
-11. 파일 입출력
-12. 전처리와 분할 컴파일
+| No. | 내용 |
+|----|-------|
+| 00 | OT 및 개발 환경 구축 |
+| 01 | 데이터와 표준 입출력 |
+| 02 | 연산자 |
+| 03 | [제어문](https://github.com/ay-oh/core-c/tree/develop/03--control-statement)(Control Statement) |
+| 04 | 함수 |
+| 05 | 1차원 배열 |
+| 06 | 포인터 |
+| 07 | 문자열 |
+| 08 | 포인터 응용 |
+| 09 | 메모리 동적 할당 |
+| 10 | 구조체 |
+| 11 | 파일 입출력 |
+| 12 | 전처리와 분할 컴파일 |
 
 ## 개발 환경 구축하기
 코딩을 할 때 가장 먼저 해야 할 일은 내 PC에서 개발을 편하게 할 수 있도록 컴퓨터 환경을 만들어줘야 합니다.  
